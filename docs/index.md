@@ -1,41 +1,61 @@
-# Home
+# Usage
 
-[Marketplace](https://www.unrealengine.com/marketplace/en-US/product/blueprint-assist) | [Forum Post](https://forums.unrealengine.com/t/blueprint-assist-plugin/214123)
+### Drag node into comment box
 
-The Blueprint Assist plugin adds a large number of _quality of life features_ and _editor improvements_ when working with blueprints
+* Add or remove nodes by holding and releasing `Alt`
 
-!!! note
-    This page is a short overview: for a full list of features please look at the [Features page](features/command-list.md)
+![](https://i.imgur.com/2IHt0Pv.gif)
 
 ---
 
-## Node Formatting
+### Resize and snap to containing nodes
 
-=== "Blueprints"
+* Resize the node and release to snap to containing nodes.
+* Press `SHIFT + Left Mouse Button` to resize
+* See setting `Resize Chord`
 
-    ![](https://i.imgur.com/RweXyxv.gif)
+![](https://i.imgur.com/uXGwGcq.gif)
 
-=== "Behavior Tree"
+---
 
-    ![](https://i.imgur.com/KYE8Sl5.gif)
+### Comment controls
 
-!!! note
-    Formatting for other graphs is supported, but is very simple compared to the blueprint editor. Works well for simple graphs such as Sound Cues but not well for complex graphs such as the Material Editor.
+* In some cases it may useful to use the comment control buttons
 
-***
-## Navigating the graph
+![](https://i.imgur.com/hK4W1lH.gif)
 
-### Go-to-symbol menu
-![](https://i.imgur.com/O201yCf.png)
+---
 
-***
-## Miscellaneous helpful commands
+### Color presets
 
-### Link nodes between wires
-![](https://i.imgur.com/wqGY1sS.gif)
+* Create presets at `Editor Settings > Auto Size Comments > Styles > Preset Styles`
 
-### Duplicate node for each link
-![](https://i.imgur.com/Ttm6kVR.gif)
+![](https://i.imgur.com/CC6OwHO.png)
 
-#### Delete and keep links
-![](https://i.imgur.com/Am3DkTn.gif)
+* A button will be created for each style preset
+
+![](https://i.imgur.com/rbfD4xy.gif)
+
+---
+
+### Randomize color button
+
+![](https://i.imgur.com/u5SkKub.gif)
+
+---
+
+### Header comment
+
+* Convert a node to a header comment. This is a floating comment node which contains no nodes.
+
+![](https://i.imgur.com/vOLaUXV.gif)
+
+---
+
+### Disable comment controls
+
+Disable any comment controls or buttons you do not use under
+
+* `Editor Settings > Auto Size Comments > Controls`
+
+![](https://i.imgur.com/6iNk294.png)
