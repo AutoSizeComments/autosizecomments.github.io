@@ -2,11 +2,13 @@ site_name: Auto Size Comments
 theme:
   name: material
   palette:
-      scheme: slate
-      primary: indigo
-#  features:
-#    - navigation.tabs
-#    - navigation.tabs.sticky
+    scheme: slate
+    primary: indigo
+  features:
+    - navigation.tracking
+    - navigation.sections
+    - navigation.indexes
+  
   font:
     text: Open Sans
     code: JetBrains Mono
