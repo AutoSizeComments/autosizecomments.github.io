@@ -60,6 +60,18 @@
     color: #ffc233;
 }
 
+/* code */
+.md-typeset code {
+    font-size: 14px;
+}
+
+/* code */
+.md-typeset,
+.md-typeset .admonition {
+    font-size: 16px;
+}
+
+
 .md-typeset h1 {
     font-size: 28px;
     font-weight: bold;
