@@ -34,7 +34,18 @@
 
 * A button will be created for each style preset
 
-![](https://i.imgur.com/rbfD4xy.gif)
+---
+
+### Tagged Presets
+
+* Tagged preset will apply when a comment title matches the tag
+* Default tags: `@TODO` `@FIXME` `@INFO`
+* Add more tagged presets at `Editor Settings > Auto Size Comments > Tagged Presets`
+
+<video controls autoplay loop muted> 
+<source src="../videos/tagged-presets.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 ---
 
