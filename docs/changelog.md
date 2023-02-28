@@ -1,5 +1,21 @@
 # Changelog
 
+### 3.1.7
+* Add setting: `GraphSettingsOverride` which allows you to specify a ResizingMode for a graph type
+* Add feature `TaggedPresets` which will automatically apply a preset style when detecting the tag in the node title. [See more](../#tagged-presets)
+* Ignore `ControlRig` graph by default
+* Fix issue where changing to header comment would not update the comments size
+
+### 3.1.6
+* Removed setting `UseRandomColour`. Instead use the new setting `DefaultCommentColorMethod` which is set to `Random` by
+  default.
+* Comments now wrap node size accounting for their comment bubble bounds. See setting `Use Comment Bubble Bounds` (true
+  by default)
+* Add plugin icon
+* Fix compile issue for non-unity builds, thanks @pladux :)
+* Fix issue where plugin's color initialization would not be applied if the engine's default comment color was changed
+* Fix crash when shutting down editor (#23)
+
 ### 3.1.5
 * Add setting `Cache Save Location`. Choose to save the cache file in the `Project/Saved` or `Plugin` folder.
 * Fix hitting assert when closing editor due to unloaded source control module
