@@ -1,7 +1,5 @@
 # FAQ
 
----
-
 ## Resizing Modes
 
 Using the correct resizing mode is important when working with a team or using source control. This can be found in the setting named `Resizing Mode`.
@@ -26,6 +24,8 @@ and the nodes will not be correctly wrapped.
 
 Lastly Disabled mode is extremely manual and requires the Blueprint Assist plugin. However it doesn't suffer from the
 snapshotting issue that `Reactive` has.
+
+---
 
 ## Comments failing to remember containing comments 
 
