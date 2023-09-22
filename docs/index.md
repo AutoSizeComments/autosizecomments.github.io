@@ -13,6 +13,10 @@
 * Resize the node and release to snap to containing nodes.
 * Press `SHIFT + Left Mouse Button` to resize
 * See setting `Resize Chord`
+* See setting `Resizing Mode` for auto resizing behaviour
+
+!!! note
+    For detailed info about the auto resizing, see [Resizing Modes](faq.md#resizing-modes)
 
 ![](https://i.imgur.com/uXGwGcq.gif)
 
