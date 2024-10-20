@@ -6,8 +6,6 @@
 
 ![](https://i.imgur.com/2IHt0Pv.gif)
 
----
-
 ### Resize and snap to containing nodes
 
 * Resize the node and release to snap to containing nodes.
@@ -20,15 +18,11 @@
 
 ![](https://i.imgur.com/uXGwGcq.gif)
 
----
-
 ### Comment controls
 
 * In some cases it may useful to use the comment control buttons
 
 ![](https://i.imgur.com/hK4W1lH.gif)
-
----
 
 ### Color presets
 
@@ -37,8 +31,6 @@
 ![](https://i.imgur.com/CC6OwHO.png)
 
 * A button will be created for each style preset
-
----
 
 ### Tagged Presets
 
@@ -51,21 +43,15 @@
     Your browser does not support the video tag.
 </video>
 
----
-
 ### Randomize color button
 
 ![](https://i.imgur.com/u5SkKub.gif)
-
----
 
 ### Header comment
 
 * Convert a node to a header comment. This is a floating comment node which contains no nodes.
 
 ![](https://i.imgur.com/vOLaUXV.gif)
-
----
 
 ### Disable comment controls
 

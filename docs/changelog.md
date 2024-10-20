@@ -1,5 +1,9 @@
 # Changelog
 
+!!! warning
+    Changelogs are no longer being updated here, please see [github releases](https://github.com/AutoSizeComments/AutoSizeComments/releases)
+ 
+
 ### 3.1.7
 * Add setting: `GraphSettingsOverride` which allows you to specify a ResizingMode for a graph type
 * Add feature `TaggedPresets` which will automatically apply a preset style when detecting the tag in the node title. [See more](../#tagged-presets)
